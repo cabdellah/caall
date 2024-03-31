@@ -2,40 +2,22 @@
   {
     "id": 31,
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
-    "oldpri": 1000.99,
-    "price": 99.99,
-    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
+    "url": "",
     "category": "canned",
-    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/31.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
+    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/31.jpg"
   },
   {
     "id": 32,
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
-    "oldpri": 1000.99,
-    "price": 99.99,
-    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
+    "url": "",
     "category": "canned",
-    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/32.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
+    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/32.jpg"
   },
   {
     "id": 33,
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
-    "oldpri": 1000.99,
-    "price": 99.99,
-    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
+    "url": "",
     "category": "canned",
-    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/33.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
+    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/33.jpg"
   }
 ]

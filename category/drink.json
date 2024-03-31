@@ -2,40 +2,22 @@
   {
     "id": 1,
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "oldpri": 1000.99,
-    "price": 99.99,
-    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "url": "",
     "category": "drink",
-    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
+    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg"
   },
   {
     "id": 2,
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "oldpri": 1000.99,
-    "price": 99.99,
-    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "url": "",
     "category": "drink",
-    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/2.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
+    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/2.jpg"
   },
   {
     "id": 3,
     "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "oldpri": 1000.99,
-    "price": 99.99,
-    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "url": "",
     "category": "drink",
-    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg",
-    "rating": {
-      "rate": 4.1,
-      "count": 259
-    }
+    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg"
   }
 ]
