@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "السعودية",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png",
+    "url": "https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_480p/hdntl=exp=1711976236~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=7097348514281ea3bffc1acdd6f0209a9eb0e4946efdc1ee750faef500e131f3/chunks_dvr.m3u8",
+    "category": "General"
+  },
+  {
+    "id": 2,
+    "title": "الإخبارية",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png",
+    "url": "https://live.kwikmotion.com/ikhbariyalive/ikhbariya.smil/ikhbariyapublish/ikhbariya_480p/hdntl=exp=1711976519~acl=%2fikhbariyalive%2fikhbariya.smil%2f*~data=hdntl~hmac=4ec450762f3e44b619daa53a90b105af20ebf60ce77d4b1a2eb92f6ec96d3fab/chunks_dvr.m3u8",
+    "category": "News"
+  },
+  {
+    "id": 3,
+    "title": "الرياضية الأولى",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png",
+    "url": "https://live.kwikmotion.com/ksasports1live/ksasports1.smil/ksasports1publish/ksasports1_480p/hdntl=exp=1711976601~acl=%2fksasports1live%2fksasports1.smil%2f*~data=hdntl~hmac=aac2b4cc5f19951ba8e95bdb741dd75b0be975facccf9e9ae349ac0b46acfcb1/chunks_dvr.m3u8",
+    "category": "Sports"
+  }
+]
