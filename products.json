@@ -21,48 +21,6 @@
     "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg"
   },
   {
-    "id": 11,
-    "title": "الجبن والبيض والحليب واللبن والزبدة",
-    "url": "",
-    "category": "dairy",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/11.jpg"
-  },
-  {
-    "id": 12,
-    "title": "الجبن والبيض والحليب واللبن والزبدة",
-    "url": "",
-    "category": "dairy",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/12.jpg"
-  },
-  {
-    "id": 13,
-    "title": "الجبن والبيض والحليب واللبن والزبدة",
-    "url": "",
-    "category": "dairy",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/13.jpg"
-  },
-  {
-    "id": 21,
-    "title": "الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
-    "url": "",
-    "category": "bread",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/21.jpg"
-  },
-  {
-    "id": 22,
-    "title": "الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
-    "url": "",
-    "category": "bread",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/22.jpg"
-  },
-  {
-    "id": 23,
-    "title": "الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
-    "url": "",
-    "category": "bread",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/23.jpg"
-  },
-  {
     "id": 31,
     "title": "الخضار، صلصة السباغيتي، الكاتشب",
     "url": "",
@@ -103,26 +61,5 @@
       "url": "",
     "category": "meat",
     "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/43.jpg"
-  },
-  {
-    "id": 51,
-    "title": "الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
-    "url": "",
-    "category": "Vege",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/51.jpg"
-  },
-  {
-    "id": 52,
-    "title": "الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
-    "url": "",
-    "category": "Vege",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/52.jpg"
-  },
-  {
-    "id": 53,
-    "title": "الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
-    "url": "",
-    "category": "Vege",
-    "logo": "https://raw.githubusercontent.com/cabdellah/mall/main/img/53.jpg"
   }
 ]
