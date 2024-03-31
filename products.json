@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "oldpri": 1000.99,
+    "price": 99.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "category": "drink",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 2,
+    "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "oldpri": 1000.99,
+    "price": 99.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "category": "drink",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/2.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "oldpri": 1000.99,
+    "price": 99.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "category": "drink",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 11,
+    "title": "الجبن والبيض والحليب واللبن والزبدة",
+    "oldpri": 1000.99,
+    "price": 59.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الجبن والبيض والحليب واللبن والزبدة",
+    "category": "dairy",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/11.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 12,
+    "title": "الجبن والبيض والحليب واللبن والزبدة",
+    "oldpri": 1000.99,
+    "price": 59.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الجبن والبيض والحليب واللبن والزبدة",
+    "category": "dairy",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/12.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 13,
+    "title": "الجبن والبيض والحليب واللبن والزبدة",
+    "oldpri": 1000.99,
+    "price": 59.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الجبن والبيض والحليب واللبن والزبدة",
+    "category": "dairy",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/13.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 21,
+    "title": "الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
+    "oldpri": 1000.99,
+    "price": 14.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
+    "category": "bread",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/21.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 22,
+    "title": "الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
+    "oldpri": 1000.99,
+    "price": 14.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
+    "category": "bread",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/22.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 23,
+    "title": "الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
+    "oldpri": 1000.99,
+    "price": 14.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخبز المخبز - أرغفة الساندويتشات، ولفائف العشاء، والتورتيلا، والخبز",
+    "category": "bread",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/23.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 31,
+    "title": "الخضار، صلصة السباغيتي، الكاتشب",
+    "oldpri": 1000.99,
+    "price": 99.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
+    "category": "canned",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/31.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 32,
+    "title": "الخضار، صلصة السباغيتي، الكاتشب",
+    "oldpri": 1000.99,
+    "price": 99.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
+    "category": "canned",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/32.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 33,
+    "title": "الخضار، صلصة السباغيتي، الكاتشب",
+    "oldpri": 1000.99,
+    "price": 99.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الخضار، صلصة السباغيتي، الكاتشب",
+    "category": "canned",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/33.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 41,
+    "title": "لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "oldpri": 1000.99,
+    "price": 199.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "category": "meat",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/41.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 42,
+    "title": "لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "oldpri": 1000.99,
+    "price": 199.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "category": "meat",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/42.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 43,
+    "title": "لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "oldpri": 1000.99,
+    "price": 199.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "category": "meat",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/43.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 51,
+    "title": "الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "oldpri": 1000.99,
+    "price": 49.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "category": "Vege",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/51.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 52,
+    "title": "الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "oldpri": 1000.99,
+    "price": 49.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "category": "Vege",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/52.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 53,
+    "title": "الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "oldpri": 1000.99,
+    "price": 49.99,
+    "description": "تجد جميع السلع بأسعار منخفضة و جودة عالية ، الفواكه والخضروات و كل منتجات المزرعة الطازجة ",
+    "category": "Vege",
+    "image": "https://raw.githubusercontent.com/cabdellah/mall/main/img/53.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  }
+]
