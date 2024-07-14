@@ -1,23 +1,50 @@
 [
   {
-    "id": 1,
-    "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/DASH/stream_01/Segment-4129612560204251.m4v",
-    "category": "drink",
-    "logo": "https://raw.githubusercontent.com/cabdellah/caall/main/img/1.jpg"
+    "id": 10100101,
+    "act": "Tah",
+    "libr": "المكتبة البلدية الطاهير وسط",
+    "web": "https://www.youtube.com",
+    "mail": "appweb18000@gmail.com",
+    "map": "https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
+    "cover": "https://raw.githubusercontent.com/cabdellah/caall/main/img/1.jpg",
+    "title": "المدخل إلى مناهج البحث العلمي",
+    "name": "محمد محمد قاسم",
+    "trans": " - - - - -",
+    "pub": "دار المعرفة الجامعة الاسكندرية",
+    "date": "1998",
+    "code": "Ar 001-01",
+    "category": "drink"
   },
   {
-    "id": 2,
-    "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/DASH/stream_01/Segment-4129612560204251.m4v",
-    "category": "drink",
-    "logo": "https://raw.githubusercontent.com/cabdellah/caall/main/img/2.jpg"
+    "id": 10100102,
+    "act": "Tah",
+    "libr": "المكتبة البلدية الطاهير وسط",
+    "web": "https://www.youtube.com",
+    "mail": "appweb18000@gmail.com",
+    "map": "https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
+    "cover": "https://raw.githubusercontent.com/cabdellah/caall/main/img/1.jpg",
+    "title": "المدخل إلى مناهج البحث العلمي",
+    "name": "محمد محمد قاسم",
+    "trans": " - - - - -",
+    "pub": "دار المعرفة الجامعة الاسكندرية",
+    "date": "1998",
+    "code": "Ar 001-02",
+    "category": "drink"
   },
   {
-    "id": 3,
-    "title": "مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
-    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/DASH/stream_01/Segment-4129612560204251.m4v",
-    "category": "drink",
-    "logo": "https://raw.githubusercontent.com/cabdellah/caall/main/img/3.jpg"
+    "id": 10100103,
+    "act": "Tah",
+    "libr": "المكتبة البلدية الطاهير وسط",
+    "web": "https://www.youtube.com",
+    "mail": "appweb18000@gmail.com",
+    "map": "https://maps.app.goo.gl/F4Dv8J8W4DLHRc6NA",
+    "cover": "https://raw.githubusercontent.com/cabdellah/caall/main/img/1.jpg",
+    "title": "المدخل إلى مناهج البحث العلمي",
+    "name": "محمد محمد قاسم",
+    "trans": " - - - - -",
+    "pub": "دار المعرفة الجامعة الاسكندرية",
+    "date": "1998",
+    "code": "Ar 001-03",
+    "category": "drink"
   }
 ]
